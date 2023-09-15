@@ -1,4 +1,5 @@
 ### Hi there 👋
+Benim adım Enes. Soyadım Durur.
 
 <!--
 **enesdurur/enesdurur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
